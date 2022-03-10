@@ -2,6 +2,6 @@ package test33.dao;
 
 public class abcde {
 	public abcde() {
-		// TODO Auto-generated constructor stub
+		System.out.println("라면 개 존맛");
 	}
 }
