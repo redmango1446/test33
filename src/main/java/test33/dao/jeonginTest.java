@@ -8,5 +8,6 @@ public class jeonginTest {
 		System.out.println("YES");
 		System.out.println("YES");
 		System.out.println("YES");
+		System.out.println("1");
 	}
 }
